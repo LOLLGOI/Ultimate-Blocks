@@ -1,0 +1,11 @@
+{
+  "evil_morty": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ultimate_blocks:rick-and-morty-evil-morty-theme-_for-the-damaged-coda_-epic-version-_season-5-finale-music_",
+        "stream": false
+      }
+    ]
+  }
+}

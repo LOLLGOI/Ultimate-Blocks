@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "evil_cd",
+    "name": "Evil Morty ",
+    "description": "By The_Source",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:evil_morty"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

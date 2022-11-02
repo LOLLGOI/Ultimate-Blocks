@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ultimate_blocks:blocks/ultimate_erz_texture",
+    "up": "ultimate_blocks:blocks/ultimate_erz_texture",
+    "north": "ultimate_blocks:blocks/ultimate_erz_texture",
+    "east": "ultimate_blocks:blocks/ultimate_erz_texture",
+    "south": "ultimate_blocks:blocks/ultimate_erz_texture",
+    "west": "ultimate_blocks:blocks/ultimate_erz_texture",
+    "particle": "ultimate_blocks:blocks/ultimate_erz_texture"
+  }
+}

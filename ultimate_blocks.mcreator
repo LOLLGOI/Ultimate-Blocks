@@ -1,0 +1,96 @@
+{
+  "mod_elements": [
+    {
+      "name": "UltimateSword",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimate_sword"
+    },
+    {
+      "name": "Ultimate",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimate"
+    },
+    {
+      "name": "UltimateErz",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimate_erz"
+    },
+    {
+      "name": "Ultimateerzitem",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimateerzitem"
+    },
+    {
+      "name": "UltimateswordCrafting",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimatesword_crafting"
+    },
+    {
+      "name": "EvilMortyTheSource",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_morty_the_source"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "evil_morty",
+      "files": [
+        "rick-and-morty-evil-morty-theme-_for-the-damaged-coda_-epic-version-_season-5-finale-music_"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.evil_morty": "",
+      "item.ultimate_blocks.ultimate_sword": "Ultimate Sword",
+      "itemGroup.tabultimate": "Ultimate",
+      "item.ultimate_blocks.evil_morty_the_source": "Evil Morty ",
+      "item.ultimate_blocks.evil_morty_the_source.desc": "By The_Source",
+      "item.ultimate_blocks.ultimateerzitem": "Ultimateerzitem",
+      "block.ultimate_blocks.ultimate_erz": "Ultimate Erz"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ultimate_blocks",
+    "modName": "Ultimate Blocks",
+    "version": "1.0.0",
+    "author": "siroh_qvnd2dr, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.ultimateblocks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
